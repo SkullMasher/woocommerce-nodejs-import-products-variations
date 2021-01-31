@@ -1,0 +1,9 @@
+{
+  "name": "auzars",
+  "version": "1.0.0",
+  "main": "auzars-product-variations.js",
+  "license": "MIT",
+  "dependencies": {
+    "papaparse": "^5.3.0"
+  }
+}
